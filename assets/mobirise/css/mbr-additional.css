@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
 
 
@@ -22,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Lora', serif;
-  font-size: 3rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 3.5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 5.6rem;
 }
 .display-2 {
-  font-family: 'Lora', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
@@ -43,7 +42,7 @@ body {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Lora', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
@@ -63,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.8rem;
+    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.6rem;
@@ -777,9 +776,9 @@ body {
   min-height: 100vh;
 }
 .cid-qFfw1GVmhV {
-  padding-top: 135px;
-  padding-bottom: 150px;
-  background-image: url("../../../assets/images/tat-restaurant-7-1500x2000.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/tat-restaurant-1500x2000.jpg");
 }
 .cid-qFfw1GVmhV .text {
   letter-spacing: 0.03em;
@@ -1175,13 +1174,10 @@ body {
 .cid-qFfdtg1PMW .progress-bar-5 {
   width: 75%;
 }
-.cid-qFfdtg1PMW .mbr-section-title SPAN {
-  color: #ffffff;
-}
 .cid-qFfdud9GMA {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1583x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1583x10808.jpg");
 }
 .cid-qFfdud9GMA .mbr-section-title {
   margin: 0;
@@ -1618,7 +1614,7 @@ body {
 .cid-qFfeDNQbwm {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/img-1634-2000x1500.jpg");
+  background-image: url("../../../assets/images/img-1634-2000x15009.jpg");
 }
 .cid-qFfeDNQbwm .mbr-section-heading {
   margin-bottom: 1.5em;
@@ -1750,7 +1746,7 @@ body {
   color: #c1c1c1;
 }
 .cid-qFfcINYH49 {
-  background-image: url("../../../assets/images/img-2087-2000x1500.jpg");
+  background-image: url("../../../assets/images/img-2087-2000x150010.jpg");
 }
 .cid-qFfcINYH49 .mbr-text,
 .cid-qFfcINYH49 .typed-text,
